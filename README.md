@@ -1,6 +1,10 @@
-### Hi, I'm Anurag Tripathi 👋
+<div align="center">
 
-Frontend Developer • React & Angular • Enterprise Web Applications
+# Anurag Tripathi 👋
+
+### Frontend Developer • React & Angular • Enterprise Web Applications
+
+</div>
 
 ## 👋 About
 I'm a Frontend Developer with 4+ years of experience building enterprise web
@@ -24,10 +28,18 @@ built with 10+ React components and optimized state management via React Hooks.
 React.js + Material UI, 5+ REST APIs for real-time appointment scheduling.
 
 ## 🛠️ Tech
-**Frontend:** React.js, Angular, JavaScript (ES6+), TypeScript, Redux, HTML5, CSS3, Tailwind, Bootstrap, Material UI, Vite
-**Backend/DB:** Core Java, Spring Boot, MySQL, PostgreSQL
-**Tools:** Git, GitHub, Jenkins, Postman, Jira, Confluence
-**AI/Integration:** OpenAI API, Gemini API, Claude, TIBCO BusinessWorks, EMS
+
+**Frontend:**
+React.js, Angular, JavaScript (ES6+), TypeScript, Redux, HTML5, CSS3, Tailwind, Bootstrap, Material UI, Vite
+
+**Backend/DB:**
+Core Java, Spring Boot, MySQL, PostgreSQL
+
+**Tools:**
+Git, GitHub, Jenkins, Postman, Jira, Confluence
+
+**AI/Integration:**
+OpenAI API, Gemini API, Claude, TIBCO BusinessWorks, EMS
 
 ## 🔗 Links
 - Email: anu.trip.33@gmail.com
