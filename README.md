@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anurag Tripathi 👋
+# Anurag Tripathi
 
 ### Frontend Developer • React & Angular • Enterprise Web Applications
 
@@ -31,10 +31,13 @@ React.js + Material UI, 5+ REST APIs for real-time appointment scheduling.
 
 **Frontend:**
 React.js, Angular, JavaScript (ES6+), TypeScript, Redux, HTML5, CSS3, Tailwind, Bootstrap, Material UI, Vite
+
 **Backend/DB:**
 Core Java, Spring Boot, MySQL, PostgreSQL
+
 **Tools:**
 Git, GitHub, Jenkins, Postman, Jira, Confluence
+
 **AI/Integration:**
 OpenAI API, Gemini API, Claude, TIBCO BusinessWorks, EMS
 
